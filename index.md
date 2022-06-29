@@ -1,3 +1,3 @@
 ## Welcome to 3D Embedding!!
 
-You can upload a new schematic by clicking [here]
+You can upload a new schematic by clicking [here](uploadpage.md)
